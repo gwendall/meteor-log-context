@@ -1,5 +1,5 @@
 Package.describe({
-  name: "gwendall:log-this",
+  name: "gwendall:log-context",
   summary: "Log Blaze context with a click",
   version: "0.1.0"
 });
