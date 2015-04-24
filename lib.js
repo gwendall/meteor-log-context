@@ -1,4 +1,3 @@
-// Returns the current and parents data contexts
 Template.logContext.events({
   "click [data-log-context]": function(e, tpl) {
     var element = $(e.currentTarget);
